@@ -1,22 +1,5 @@
-VERSIÓN 4 - SITIO POR BLOQUES ESTILO MOODLE
+VERSIÓN 5 - PORTAL POR BLOQUES PREMIUM
 
-Esta versión reemplaza la estructura de página única por un portal modular con páginas independientes:
+Esta versión reemplaza la estética anterior. Mantiene estructura tipo Moodle por módulos, pero mejora diseño visual, portada, tarjetas, jerarquía, navegación móvil y coherencia institucional.
 
-- index.html: portada y tablero de bloques
-- institucion.html
-- identidad.html
-- vida-escolar.html
-- proyectos.html
-- recursos.html
-- multimedia.html
-- contacto.html
-- dossier-curaduria.html
-- styles.css
-
-Modo de publicación:
-1. Descomprimir el ZIP.
-2. Subir todos los archivos al repositorio GitHub.
-3. Reemplazar el index.html anterior y agregar las nuevas páginas.
-4. Mantener GitHub Pages activo.
-
-Criterio aplicado: navegación tipo Moodle, con bloques independientes, no One Page.
+Para publicar: subir todos los archivos al repositorio GitHub reemplazando los existentes.

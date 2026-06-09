@@ -1,0 +1,6 @@
+Criterio de esta versión:
+- No One Page.
+- Portada como tablero institucional.
+- Módulos separados por archivo HTML.
+- Información no confirmada marcada como PENDIENTE DE CONFIRMAR.
+- Diseño visual más cercano a portal escolar moderno, inspirado en organización Moodle.
