@@ -1,18 +1,22 @@
-SITIO INSTITUCIONAL - ESCUELA SECUNDARIA N° 2 “JOSÉ GERVASIO ARTIGAS”
-Versión 2 - Curaduría ampliada
+VERSIÓN 4 - SITIO POR BLOQUES ESTILO MOODLE
 
-Archivos incluidos:
-- index.html
+Esta versión reemplaza la estructura de página única por un portal modular con páginas independientes:
+
+- index.html: portada y tablero de bloques
+- institucion.html
+- identidad.html
+- vida-escolar.html
+- proyectos.html
+- recursos.html
+- multimedia.html
+- contacto.html
+- dossier-curaduria.html
 - styles.css
-- DOSSIER_CURADURIA_ARTIGAS.txt
-- README_PUBLICACION.txt
 
-Instrucciones de publicación:
-1. Ingresar al repositorio GitHub: escuela-secundaria-2-artigas.
-2. Reemplazar index.html y styles.css por los archivos de esta carpeta.
-3. Subir también DOSSIER_CURADURIA_ARTIGAS.txt como respaldo interno de trabajo.
-4. Confirmar cambios con un commit, por ejemplo: “Actualización institucional V2”.
-5. Esperar el despliegue automático de GitHub Pages.
+Modo de publicación:
+1. Descomprimir el ZIP.
+2. Subir todos los archivos al repositorio GitHub.
+3. Reemplazar el index.html anterior y agregar las nuevas páginas.
+4. Mantener GitHub Pages activo.
 
-Nota:
-Esta versión incorpora información confirmada y también deja marcados los datos pendientes de validación, evitando publicar información institucional no verificada.
+Criterio aplicado: navegación tipo Moodle, con bloques independientes, no One Page.

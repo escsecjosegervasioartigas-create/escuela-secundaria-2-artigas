@@ -1,0 +1,18 @@
+DOSSIER CURADURÍA ARTIGAS V4
+
+Decisión estructural consolidada:
+El sitio de la Escuela Secundaria N° 2 José Gervasio Artigas NO debe organizarse como One Page.
+Debe funcionar como portal institucional por bloques, similar a una estructura Moodle: portada-tablero + módulos independientes.
+
+Bloques creados:
+1. Institución
+2. Historia e identidad
+3. Vida escolar
+4. Programas y proyectos
+5. Recursos
+6. Multimedia
+7. Contacto
+8. Dossier de curaduría
+
+Regla de mantenimiento:
+Cada nuevo contenido se incorpora dentro del bloque correspondiente, sin alargar innecesariamente la portada.
